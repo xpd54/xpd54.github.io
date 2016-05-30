@@ -18,7 +18,8 @@ I am using **Google Drive** and **Mac** terminal here, you can use whatever you 
 * Open your terminal and go to your Google Drive folder. 
 
 	```cd ~/Google\ Drive/```
-		Create new folder.
+
+	Create a new folder. (folder name is repo)
 	
 	```mkdir repo```
 *	Go into **repo** folder.
